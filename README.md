@@ -5,8 +5,8 @@ and Top Rated Movies . Users can also see the rating, release date, and poster o
 Users can also search for their favourite films.
 ## UI
 <img src="https://github.com/mallamsathwika/MovieApp/assets/155454402/1f81a903-9e4d-4d80-9845-87b1fa573d99" alt="login_page" width="300"/>
-
-<img src="https://github.com/mallamsathwika/MovieApp/assets/155454402/4d3f3501-264b-4baa-af85-836e321ccde4" alt="home_page" width="300"/></br>
+<img src="https://github.com/mallamsathwika/MovieApp/assets/155454402/4d3f3501-264b-4baa-af85-836e321ccde4" alt="home_page" width="300"/>
+</br>
 <img src="https://github.com/mallamsathwika/MovieApp/assets/155454402/6e1b9eed-35a0-436e-8701-3c7407d876cb" alt="search_page" width="300"/>
 <img src="https://github.com/mallamsathwika/MovieApp/assets/155454402/4f87dae7-6999-43b4-9273-19f3fad2096b" alt="details_psge" width="300"/>
 

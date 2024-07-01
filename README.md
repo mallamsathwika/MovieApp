@@ -3,8 +3,11 @@
 This is a Flutter Application for Film Enthusiasts. It shows information regarding Latest, Trending
 and Top Rated Movies . Users can also see the rating, release date, and poster of the films/shows.
 Users can also search for their favourite films.
+## UI
+![login_final](https://github.com/mallamsathwika/MovieApp/assets/155454402/1f81a903-9e4d-4d80-9845-87b1fa573d99)
 
-# UI
+![home_final](https://github.com/mallamsathwika/MovieApp/assets/155454402/4d3f3501-264b-4baa-af85-836e321ccde4)
+
 
 ## Firebase Authentication
 

@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark(useMaterial3: true).copyWith(
         scaffoldBackgroundColor: Colours.scaffoldBgColor,
       ),
-      home: const Login(),
+      home: const Wrapper(),
     );
   }
 }
